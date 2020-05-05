@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-**In this website you can find all my 201 reading notes.**
+**_In this website you can find all my 201 reading notes._**
 
 ## Table of daily reading assignments:
 
