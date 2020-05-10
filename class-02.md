@@ -22,6 +22,7 @@ the tag | definition
 \<abbr\> | If you use an abbreviation or an acronym, then the \<abbr\> element can be used. A title attribute on the opening tag is used to specify the full term. 
 \<ins\> | it can be used to show content that has been inserted into a document.
 \<del\> | it can show text that has been deleted from it.
+
 ![logo](https://miro.medium.com/max/638/1*EjUlBjd1yQFFcOvo0VYLog.jpeg)
 
 * HTML elements are used to describe the structure of the page such as headings, subheadings and paragraphs.
