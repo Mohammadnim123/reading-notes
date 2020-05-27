@@ -6,8 +6,8 @@ The Command | It work
 -------- | --------
 `git init` | create a new repository
 `git status` | view which files have changed between your working directory and what's been previously committed to the repository
-`git add file|directory` | add changes to the staging area
-`git commit -m "<commit message>"` | moves files from staging to the repository and records the time/date, author and a commit message that can be used to add additional context and reasoning to the changes such as a bug report number.
+`git add` | add changes to the staging area.
+`git commit -m ' message' ` | moves files from staging to the repository and records the time/date, author and a commit message that can be used to add additional context and reasoning to the changes such as a bug report number.
 `.gitignore file` | if there are particular files or directories you never want to commit
 `git diff` | compare against an older version
 `git diff --staged` | To compare the changes in the staging area against the previous commit
