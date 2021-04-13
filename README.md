@@ -8,7 +8,7 @@
 Read#        | Link           
  ------------- |-------------
  Read 1 | [Link 1](https://mohammadnim123.github.io/reading-notes/class-01)
-Read 2 | [Link 2]()
+Read 2 | [Link 2](jioio)
 Read 3 | [Link 3]()
 Read 4 | [Link 4]()
 Read 5 | [Link 5]()
